@@ -1,3 +1,3 @@
 terraform {
-  backend "deployment" {}
+  backend "s3" {}
 }
