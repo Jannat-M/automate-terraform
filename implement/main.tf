@@ -6,6 +6,6 @@ module "ec2-ins"  {
 
 module "s3-buck" {
     source = "../s3"
-    bucket_name = "jm-mybucket"
+    bucket_name = "jm-mybucket123"
 }
 
